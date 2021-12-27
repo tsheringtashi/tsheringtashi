@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @tsheringtashi
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Tshering Tashi from rugged terrain mountains east of Bhutan called Udzorong.
+- 👀 I’m interested in Machine learning and Artificial Intelligence. 
+- 🌱 I’m currently learning Machine learning.
+- 💞️ I’m looking to collaborate on machine learning project
 - 📫 email me datatashi@gmail.com
 
 <!---
